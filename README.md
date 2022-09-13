@@ -1,4 +1,4 @@
-# Android Project 1 - *Name of App Here*
+# Android Project 1 - *Wordle*
 
 Submitted by: **Khang Nguyen**
 
@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/khangnguyen211195/Wordle_Android/blob/main/wordle.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/khangnguyen211195/Wordle_Android/blob/main/wordle.gif' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
