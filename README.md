@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/khangnguyen211195/Wordle_Android/blob/main/wordle.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Adobe (poor)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
